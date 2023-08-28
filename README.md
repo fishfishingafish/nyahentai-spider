@@ -13,8 +13,8 @@ Please <font color="red">DO NOT</font> modify file names or alter file structure
 
 尽管运行时只能对单个页面的数据进行抓取，但你可以同时开启多个实例并输入不同的 URL  
 While it can only scrape data for a single page at runtime, you can simultaneously launch multiple instances and input different URLs.
-1. 运行 user-run.bat  
-   Run user-run.bat
+1. 运行 <code>user-run.bat</code>  
+   Run <code>user-run.bat</code>
 2. 复制要爬取的漫画详情页面 URL，按下回车  
    Copy the URL of the comic details page you want to crawl, then press Enter
 
