@@ -35,7 +35,7 @@ Since this project is intended solely for personal archiving purposes, functiona
 In case updates on the target website lead to program failures, routine maintenance might be carried out  
 Due to the specific nature of the website's content, if you know what I mean...  
 Furthermore, the aforementioned functionalities can be entirely achieved through the built-in packaging feature after logging into the website  
-（Even if I'm ready to hustle like a hound, I'd rather not fetch that website login）  
+（Even if I'm ready to hustle like a dog, I'd rather not fetch that website login）  
 So, this project allows for secondary modifications and releases. It permits the reuse of all existing code with proper attribution  
 And also welcomes feature suggestions (though there might not be time for code implementation)
 
