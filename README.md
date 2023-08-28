@@ -15,8 +15,8 @@ Please <font color="red">DO NOT</font> modify file names or alter file structure
 While it can only scrape data for a single page at runtime, you can simultaneously launch multiple instances and input different URLs.
 1. 运行 <code>user-run.bat</code>  
    Run <code>user-run.bat</code>
-2. 复制要爬取的漫画详情页面 URL，按下回车  
-   Copy the URL of the comic details page you want to crawl, then press Enter
+2. 复制要爬取的漫画详情页面 <code>URL</code>，按下回车  
+   Copy the <code>URL</code> of the comic details page you want to crawl, then press Enter
 
    示例（Example）: https://nyahentai.red/g/XXXXXX  
 3. 出现 “进程退出” 标记时，可安全关闭命令窗口，在 .\download\漫画标题\
