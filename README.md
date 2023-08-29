@@ -5,7 +5,8 @@ A Simple nyahentai Non-Login Crawler.
 <br>
 ## 需求 / 前置 / Requirement
 1. Python 3.x
-2. scrapy (使用 pip install scrapy 进行安装)
+2. scrapy (latest version)  
+ (在 cmd 中使用 <code>pip install scrapy</code> 进行安装)
 
 ## 使用说明 / 使用說明 / Guide
 <font color="red">不要</font>修改文件名称或变更文件结构。（最外层文件夹名除外）  
